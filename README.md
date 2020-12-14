@@ -45,5 +45,5 @@ basic.forever(function () {
 
 ##  ~ @unplugged 
 Wie im Projekt zum Weihnachtsfeier-Licht schon angesprochen, kannst du den Block zeichne Balken sehr gut für einen einzelnen Streifen nutzen.<br>
-Am Schwibbogen würde könnte dies so aussehen: <br>
+Am Schwibbogen könnte dies so aussehen: <br>
 ![SchwibbogenBalken](https://github.com/r00b1nh00d/Schwibbogen/blob/master/Schwibbbalken.gif?raw=true)
